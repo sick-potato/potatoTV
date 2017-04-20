@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<addon id="repository.sick-potato" name="couch potato Repository" version="1.0.0" provider-name="couch potato">
+    
+    <extension point="xbmc.addon.repository" name="couch potato Add-Ons">
+        <info compressed="false">https://raw.githubusercontent.com/sick-potato/potatoTV/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/sick-potato/potatoTV/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.github.com/sick-potato/potatoTV/master</datadir>
+    </extension>
+    
+    <extension point="xbmc.addon.metadata">
+        <summary>couch potato Repository</summary>
+        <description>Just wanna screw your life dude!</description>
+        <platform>all</platform>
+    </extension>
+
+</addon>
