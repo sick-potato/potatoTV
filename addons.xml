@@ -1,6 +1,95 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 
+<addon id="repository.sick-potato" name="couch potato Repository" version="1.0.0" provider-name="couch potato">
+    <extension point="xbmc.addon.repository" name="couch potato Add-Ons">
+        <info compressed="false">https://raw.githubusercontent.com/sick-potato/potatoTV/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/sick-potato/potatoTV/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.github.com/sick-potato/potatoTV/master</datadir>
+    </extension>
+    
+    <extension point="xbmc.addon.metadata">
+        <summary>couch potato Repository</summary>
+        <description>Just wanna screw your life dude!</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.shani" name="Shanis Addon Repository" version="2.9" provider-name="Shani">
+	<extension point="xbmc.addon.repository" name="Shanis Addon Repository">
+        <dir>
+			<info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
+			<checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
+		</dir>
+    
+    <info compressed="false">https://offshoregit.com/Shani-08/main/addons.xml</info>
+    <checksum>https://offshoregit.com/Shani-08/main/addons.xml.md5</checksum>
+    <datadir zip="true">https://offshoregit.com/Shani-08/main/zips</datadir>
+
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Addons related to XBMC for Zemtv etc</summary>
+		<description>Go though the plugins and see what you like</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.unofficialsportsdevil" name="Unofficial SportsDevil Repository" version="1.0.0" provider-name="unofficialsportsdevil">
+ <extension point="xbmc.addon.repository" name="Unofficial SportsDevil Repository">
+  <dir>
+   <info compressed="false">
+    https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml
+   </info>
+   <checksum>
+    https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5
+   </checksum>
+   <datadir zip="true">
+    https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/
+   </datadir>
+  </dir>
+  <info compressed="false">
+   https://offshoregit.com/unofficialsportsdevil/addons.xml
+  </info>
+  <checksum>
+   https://offshoregit.com/unofficialsportsdevil/addons.xml.md5
+  </checksum>
+  <datadir zip="true">https://offshoregit.com/unofficialsportsdevil/</datadir>
+ </extension>
+ <extension point="xbmc.addon.metadata">
+  <summary>Unofficial SportsDevil Updates for Kodi</summary>
+  <description>Unofficial SportsDevil Updates for Kodi</description>
+  <platform>all</platform>
+  <forum>
+   https://forums.tvaddons.ag/sportsdevil-addon-for-kodi/
+  </forum>
+ </extension>
+</addon>
+
+<addon id="repository.ytplugin" name="Youtube Addon Repo" version="1.0" provider-name="Jeffrey Frasure">
+	<extension point="xbmc.addon.repository" name="Youtube Addon Repository">
+		<info compressed="false">https://github.com/jdf76/repository/raw/master/addons.xml</info>
+		<checksum>https://github.com/jdf76/repository/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/jdf76/repository/raw/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Kodis Youtube Addons</summary>
+                <description>Download and install addons from the Kodi Youtube group. This plugin is not official from Google.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="service.iptvsimple.plugin.player" name="IPTV Simple Plugins Player" version="1.0.0" provider-name="TheWiz">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension point="xbmc.service" library="service.py" start="login"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Play IPTV Simple plugins links</summary>
+  </extension>
+</addon>
+
 <addon id="plugin.video.potatoTV" name="Potato TV" version="1.0.5-r1" provider-name="couch potato">
     <requires>
 		<import addon="xbmc.python" version="2.14.0"/>
@@ -17,20 +106,6 @@
 		<language></language>
 		<forum>https://www.dropbox.com/s/8qdli2bammfbmro/potatoTV.log?raw=true</forum>
 	</extension>
-</addon>
-
-<addon id="repository.sick-potato" name="couch potato Repository" version="1.0.0" provider-name="couch potato">
-    <extension point="xbmc.addon.repository" name="couch potato Add-Ons">
-        <info compressed="false">https://raw.githubusercontent.com/sick-potato/potatoTV/master/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/sick-potato/potatoTV/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.github.com/sick-potato/potatoTV/master</datadir>
-    </extension>
-    
-    <extension point="xbmc.addon.metadata">
-        <summary>couch potato Repository</summary>
-        <description>Just wanna screw your life dude!</description>
-        <platform>all</platform>
-    </extension>
 </addon>
 
 </addons>
