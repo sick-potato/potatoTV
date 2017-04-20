@@ -1,0 +1,86 @@
+=================
+    Potato TV 
+=================
+by: couch potato
+
+
+
+
+------------------------
+v1.0.5-r1  (2017/04/18)
+------------------------
+
+- improving the caches system
+- fixing the local time detection
+- improving the password protection
+- forcing the M3U playlist generator to use the dinamic links as its link reference
+- new option:  enabling the F4M Tester 
+
+
+
+------------------------
+v1.0.4-r2  (2017/03/28)
+------------------------
+
+- fixing a minor issue (cache related)
+
+
+
+
+---------------------
+v1.0.4  (2017/03/28)
+---------------------
+
+- fixing the VOD channels
+
+
+
+
+---------------------
+v1.0.3  (2017/03/28)
+---------------------
+
+- removing the default view mode codes
+
+- improving all the cache system
+especially for the vod caches
+
+- improving the parental control for all adult contents
+
+
+
+
+---------------------
+v1.0.2  (2017/03/27)
+---------------------
+
+- Fixing the TV genre filter
+Thanks to dara for noticing the bug
+
+
+
+
+---------------------
+v1.0.1  (2017/03/27)
+---------------------
+
+- Fixing some issues related with "Donation Based" accounts:
+	- Add 'ALL' item for the genre options
+	- Redefine the channel numbering (all foreign channels numbers are started with 5000)
+	- Fix language filter
+
+- Adding adult contents filtering for M3U playlist
+
+- Creating custom list file for any available portals
+The list can be customized by editing the 'Kodi/addons/plugin.video.potatoTV/resources/portals.list'
+
+- Fixing few minor issues
+
+
+
+
+---------------------
+v1.0.0  (2017/03/26)
+---------------------
+
+- Initial version

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.potatoTV" name="Potato TV" version="1.0.5-r1" provider-name="couch potato">
+    <requires>
+		<import addon="xbmc.python" version="2.14.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.service" library="server.py" start="startup" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Potato TV</summary>
+		<description lang="en">An unofficial video addon to connect to Stalker Middleware IPTV, based on original code by esxbr (also credits to dara @ IPTV Talk)</description>
+		<license>GNU General Public License, v2</license>
+		<language></language>
+		<forum>https://www.dropbox.com/s/8qdli2bammfbmro/potatoTV.log?raw=true</forum>
+	</extension>
+</addon>
