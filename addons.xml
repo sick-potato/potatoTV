@@ -79,6 +79,136 @@
 	</extension>
 </addon>
 
+<addon id="repository.exodus" version="1.0.1" name="Exodus repository" provider-name="Exodus">
+	<extension point="xbmc.addon.repository" name="Exodus repository">
+		<dir>
+			<info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
+			<checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://offshoregit.com/exodus/addons.xml</info>
+		<checksum>https://offshoregit.com/exodus/addons.xml.md5</checksum>
+		<datadir zip="true">https://offshoregit.com/exodus/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Exodus repository</summary>
+		<description lang="en">Exodus repository</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.tknorris.release" name="tknorris Release Repository" version="1.0.2" provider-name="tknorris">
+    <extension point="xbmc.addon.repository" name="tknorris release repository">
+        <dir>
+            <info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
+            <checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
+        </dir>
+        <info compressed="false">https://offshoregit.com/tknorris/tknorris-release-repo/raw/master/addons.xml</info>
+        <checksum>https://offshoregit.com/tknorris/tknorris-release-repo/raw/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://offshoregit.com/tknorris/tknorris-release-repo/raw/master/zips/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>This is tknorris's release repository</summary>
+        <description>This repository contains official releases of my Kodi/XBMC addons
+
+Addons Included        	
+    - Stream All The Sources
+    - 1Channel
+    - 1Channel Themepaks
+        </description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.tknorris.beta" name="tknorris Beta Testing Repository" version="1.0.5" provider-name="tknorris">
+    <extension point="xbmc.addon.repository" name="tknorris beta testing repository">
+	    <dir>
+	        <info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
+	        <checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
+	        <datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
+	    </dir>
+        <dir>
+            <info compressed="false">http://github.com/norris-addons/tknorris-beta-repo/raw/master/addons.xml</info>
+            <checksum>http://github.com/norris-addons/tknorris-beta-repo/raw/master/addons.xml.md5</checksum>
+            <datadir zip="true">http://github.com/norris-addons/tknorris-beta-repo/raw/master/zips/</datadir>
+        </dir>
+        <info compressed="false">http://github.com/tknorris/tknorris-beta-repo/raw/master/addons.xml</info>
+        <checksum>http://github.com/tknorris/tknorris-beta-repo/raw/master/addons.xml.md5</checksum>
+        <datadir zip="true">http://github.com/tknorris/tknorris-beta-repo/raw/master/zips/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>This is used ONLY for beta testing</summary>
+        <description>Beta testing only!!!
+DO NOT INSTALL UNLESS YOU WISH TO PARTICIPATE IN BETA TESTING
+
+Addons Included        	
+    - 1Channel (Beta)
+    - 1Channel Thempak
+    - SALTS (Beta)
+    - SALTS Themepak
+    - Trakt (Beta)
+    - Trakt List Manager (Alpha)
+        </description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.metalkettle" name="MetalKettles Addon Repository" version="1.7.3" provider-name="MetalKettle">
+	<extension point="xbmc.addon.repository" name="MetalKettles Addon Repository">
+	<dir>
+		<info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
+		<checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
+	</dir>
+		<info compressed="false">http://offshoregit.com/metalkettle/addons.xml</info>
+		<checksum>http://offshoregit.com/metalkettle/addons.xml.md5</checksum>
+		<datadir zip="true">http://offshoregit.com/metalkettle/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install my Addons</summary>
+		<description>Download and install addons from MetalKettle</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.xbmchub" name="TVADDONS.AG Add-on Repository" version="1.0.7" provider-name="tvaddons.ag">
+	<extension point="xbmc.addon.repository" name="TVADDONS.AG Add-on Repository">
+	<dir>
+		<info compressed="false">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml</info>
+		<checksum>https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://offshoregit.com/tvaresolvers/tva-common-repository/raw/master/zips/</datadir>
+	</dir>
+		<info compressed="false">https://offshoregit.com/xbmchub/xbmc-hub-repo/raw/master/addons.xml</info>
+		<checksum>https://offshoregit.com/xbmchub/xbmc-hub-repo/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://offshoregit.com/xbmchub/xbmc-hub-repo/raw/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Unofficial Kodi Addons from TVADDONS.AG</summary>
+		<description>Download and install unofficial Kodi add-ons from the TVADDONS.AG add-on repository. Please visit www.tvaddons.ag for addon support.
+                      
+Kodi is a registered trademark of the XBMC Foundation. We are not connected to or in any other way affiliated with Kodi, Team Kodi, or the XBMC Foundation.</description>
+         <disclaimer>TVADDONS.AG did not make all the add-ons in this repository and is not responsible for their content.</disclaimer>
+		<platform>all</platform>
+                <forum>https://forums.tvaddons.ag</forum>
+                <website>https://www.tvaddons.ag</website>
+	</extension>
+</addon>
+
+<addon id="repository.mdrepo" name="Mucky Ducks Repo" version="1.0.2" provider-name="Mucky Duck">
+	<extension point="xbmc.addon.repository" name="Mucky Ducks Repo">
+		<info compressed="false">https://raw.githubusercontent.com/mucky-duck/mdrepo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/mucky-duck/mdrepo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/mucky-duck/mdrepo/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Mucky Ducks Repo</summary>
+		<description>Download And Install Addons Developed By Mucky Duck And Various Other Developers </description>
+		<disclaimer>The owners and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="service.iptvsimple.plugin.player" name="IPTV Simple Plugins Player" version="1.0.0" provider-name="TheWiz">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
