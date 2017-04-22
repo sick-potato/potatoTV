@@ -287,4 +287,24 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
 	</extension>
 </addon>
 
+<addon id="script.speedtestnet.patched"
+       name="Speed Test (Patched)"
+       version="1.0.0"
+       provider-name="Josh.5   (and  couch potato)">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.script" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Internet Speed  Test</summary>
+    <description lang="en">
+Powered by speedtest.net
+A patched version addon based on the original code by: Josh.5 @ arnubox.com
+	</description>
+   <platform>all</platform>
+  </extension>
+</addon>
+
 </addons>
