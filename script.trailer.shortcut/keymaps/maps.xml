@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- kens - version 1.02 for PVR.Stalker LiveTV functionality: -->
+<!-- Button Ids: -->
+<!-- 0: left (in fullscreen mode- returns to last ch.) -->
+<!-- 1: right (Back/Previous Menu/or Ch.List/EPG) -->
+<!-- 2: middle (Stops Ch./ Stops "Working..." "Death Spin" (wheel moves Ch. up/dn in EPG)) -->
+<!-- 3/4/5/6: extra -->
+
+<keymap>
+<global>
+<mouse>
+<leftclick>leftclick</leftclick>
+<rightclick>rightclick</rightclick>
+<middleclick>Stop</middleclick>
+<doubleclick id="0">doubleclick</doubleclick>
+<longclick id="0">contextmenu</longclick>
+
+<wheeldown>wheeldown</wheeldown>
+<wheelup>wheelup</wheelup>
+<mousedrag>mousedrag</mousedrag>
+<mousemove>mousemove</mousemove>
+</mouse>
+
+<keyboard>
+<t>RunScript("script.trailer.shortcut")</t>
+</keyboard>
+
+</global>
+<tvguide>
+<mouse>
+<wheelup>PageUp</wheelup>
+<wheeldown>PageDown</wheeldown>
+</mouse>
+</tvguide>
+<FullscreenLiveTV>
+<mouse>
+<leftclick>Number0</leftclick>
+<rightclick>PreviousMenu</rightclick>
+</mouse>
+</FullscreenLiveTV>
+</keymap>
