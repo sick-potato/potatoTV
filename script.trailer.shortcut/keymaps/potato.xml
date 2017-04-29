@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<keymap>
+	<global>
+		<mouse>
+			<leftclick>leftclick</leftclick>
+			<rightclick>rightclick</rightclick>
+			<middleclick>Stop</middleclick>
+			<doubleclick id="0">doubleclick</doubleclick>
+			<longclick id="0">contextmenu</longclick>
+			<wheeldown>wheeldown</wheeldown>
+			<wheelup>wheelup</wheelup>
+			<mousedrag>mousedrag</mousedrag>
+			<mousemove>mousemove</mousemove>
+		</mouse>
+		<keyboard>
+			<t>RunScript("script.trailer.shortcut")</t>
+		</keyboard>
+	</global>
+	
+	<tvguide>
+		<mouse>
+			<wheelup>PageUp</wheelup>
+			<wheeldown>PageDown</wheeldown>
+		</mouse>
+	</tvguide>
+	
+	<FullscreenLiveTV>
+		<mouse>
+			<rightclick>PreviousMenu</rightclick>
+			<wheeldown>VolumeDown</wheeldown>
+			<wheelup>VolumeUp</wheelup>
+			<longclick id="0">XBMC.ActivateWindow(tvguide)</longclick>
+			<longclick id="1">XBMC.ActivateWindow(pvrosdguide)</longclick>
+		</mouse>
+	</FullscreenLiveTV>
+	
+	<FullscreenVideo>
+		<mouse>
+			<rightclick>PreviousMenu</rightclick>
+			<wheeldown>VolumeDown</wheeldown>
+			<wheelup>VolumeUp</wheelup>
+			<longclick id="0">XBMC.ActivateWindow(movieinformation)</longclick>
+			<longclick id="1">XBMC.ActivateWindow(subtitlesearch)</longclick>
+		</mouse>
+	</FullscreenVideo>
+</keymap>
