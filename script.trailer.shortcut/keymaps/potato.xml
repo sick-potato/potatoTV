@@ -13,10 +13,16 @@
 			<mousedrag>mousedrag</mousedrag>
 			<mousemove>mousemove</mousemove>
 		</mouse>
+	</global>
+	
+	<videos>
 		<keyboard>
 			<t>RunScript("script.trailer.shortcut")</t>
 		</keyboard>
-	</global>
+		<mouse>
+			<longclick id="1">info</longclick>
+		</mouse>
+	</videos>
 	
 	<tvguide>
 		<mouse>
@@ -40,7 +46,7 @@
 			<rightclick>PreviousMenu</rightclick>
 			<wheeldown>VolumeDown</wheeldown>
 			<wheelup>VolumeUp</wheelup>
-			<longclick id="0">XBMC.ActivateWindow(movieinformation)</longclick>
+			<longclick id="0">info</longclick>
 			<longclick id="1">XBMC.ActivateWindow(subtitlesearch)</longclick>
 		</mouse>
 	</FullscreenVideo>
