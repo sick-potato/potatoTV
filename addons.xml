@@ -220,9 +220,10 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
   </extension>
 </addon>
 
-<addon id="plugin.video.potatoTV" name="Potato TV" version="1.0.5-r2" provider-name="couch potato">
+<addon id="plugin.video.potatoTV" name="Potato TV" version="1.1.0" provider-name="couch potato">
     <requires>
 		<import addon="xbmc.python" version="2.14.0"/>
+		<import addon="script.module.requests" />
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="addon.py">
 		<provides>video</provides>
@@ -233,7 +234,7 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
 		<summary lang="en">Potato TV</summary>
 		<description lang="en">An unofficial video addon to connect to Stalker Middleware IPTV, based on original code by esxbr (also credits to dara @ IPTV Talk)</description>
 		<license>GNU General Public License, v2</license>
-		<language></language>
+		<language>English</language>
 		<forum>https://www.dropbox.com/s/8qdli2bammfbmro/potatoTV.log?raw=true</forum>
 	</extension>
 </addon>

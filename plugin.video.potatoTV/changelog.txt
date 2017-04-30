@@ -7,6 +7,40 @@ by: couch potato
 
 
 ------------------------
+v1.1.0  (2017/04/30)
+------------------------
+
+- improving the caches system
+
+- fixing the language filter
+
+- some major changes on VOD:
+
+  + rebuilding the whole code based on a new API
+  + adding all available MOVIE INFO (metadata) for all types of accounts, incl. the DONATION ONLY one
+  + a new option to enable/disable metadata (especially for KODI 17 which takes longer time to load than the KODI 16)
+  + enabling the SORTING feature (by: language (studio), title, year, genre or none/unsorted)
+  + adding all available MOVIE TRAILERS
+  
+- a new option to install couch potato's preset keymaps (shortcut)
+
+- displaying TV GUIDE in COLOR (credits to psycon)
+
+
+
+
+Offering:  Extra Features  ( requires LOOOOOOOOTS of magic words! lol :p )
+
+- synchronizing channel # with the backend #
+- 24 / 7 live shows
+- radio streaming
+- streaming link tester
+- easter eggs in VOD (adult contents lol)
+
+
+
+
+------------------------
 v1.0.5-r2  (2017/04/26)
 ------------------------
 
@@ -73,9 +107,9 @@ v1.0.1  (2017/03/27)
 ---------------------
 
 - Fixing some issues related with "Donation Based" accounts:
-	- Add 'ALL' item for the genre options
-	- Redefine the channel numbering (all foreign channels numbers are started with 5000)
-	- Fix language filter
+	+ Add 'ALL' item for the genre options
+	+ Redefine the channel numbering (all foreign channels numbers are started with 5000)
+	+ Fix language filter
 
 - Adding adult contents filtering for M3U playlist
 
