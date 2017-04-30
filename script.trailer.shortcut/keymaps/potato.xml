@@ -26,6 +26,7 @@
 	
 	<tvguide>
 		<mouse>
+			<rightclick>PreviousMenu</rightclick>
 			<wheelup>PageUp</wheelup>
 			<wheeldown>PageDown</wheeldown>
 		</mouse>
@@ -46,7 +47,7 @@
 			<rightclick>PreviousMenu</rightclick>
 			<wheeldown>VolumeDown</wheeldown>
 			<wheelup>VolumeUp</wheelup>
-			<longclick id="0">info</longclick>
+			<longclick id="0">AudioNextLanguage</longclick>
 			<longclick id="1">XBMC.ActivateWindow(subtitlesearch)</longclick>
 		</mouse>
 	</FullscreenVideo>
