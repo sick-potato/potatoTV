@@ -26,11 +26,21 @@
 	
 	<tvguide>
 		<mouse>
-			<rightclick>PreviousMenu</rightclick>
 			<wheelup>PageUp</wheelup>
 			<wheeldown>PageDown</wheeldown>
+			<rightclick>PreviousMenu</rightclick>
+			<longclick id="1">ContextMenu</longclick>
+			<longclick id="0">XBMC.ActivateWindow(tvchannels)</longclick>
 		</mouse>
 	</tvguide>
+	
+	<tvchannels>
+		<mouse>
+			<wheelup>PageUp</wheelup>
+			<wheeldown>PageDown</wheeldown>
+			<longclick id="0">XBMC.ActivateWindow(tvguide)</longclick>
+		</mouse>
+	</tvchannels>
 	
 	<FullscreenLiveTV>
 		<mouse>
