@@ -7,6 +7,17 @@ by: couch potato
 
 
 ------------------------
+v1.1.0-r2  (2017/05/01)
+------------------------
+
+- fixing missing paths
+- re-adding the limit for number of movies in VOD
+- defining a shortcut to call potatoTV addon instantly from the EPG page
+
+
+
+
+------------------------
 v1.1.0  (2017/04/30)
 ------------------------
 
