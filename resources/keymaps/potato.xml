@@ -31,7 +31,11 @@
 			<rightclick>PreviousMenu</rightclick>
 			<longclick id="1">ContextMenu</longclick>
 			<longclick id="0">XBMC.ActivateWindow(tvchannels)</longclick>
+			<middleclick>ActivateWindow(videos,"plugin://plugin.video.potatoTV?mode=",return)</middleclick>
 		</mouse>
+		<keyboard>
+			<p>ActivateWindow(videos,"plugin://plugin.video.potatoTV?mode=",return)</p>
+		</keyboard>
 	</tvguide>
 	
 	<tvchannels>
@@ -39,7 +43,11 @@
 			<wheelup>PageUp</wheelup>
 			<wheeldown>PageDown</wheeldown>
 			<longclick id="0">XBMC.ActivateWindow(tvguide)</longclick>
+			<middleclick>ActivateWindow(videos,"plugin://plugin.video.potatoTV?mode=",return)</middleclick>
 		</mouse>
+		<keyboard>
+			<p>ActivateWindow(videos,"plugin://plugin.video.potatoTV?mode=",return)</p>
+		</keyboard>
 	</tvchannels>
 	
 	<FullscreenLiveTV>
