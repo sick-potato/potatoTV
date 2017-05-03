@@ -5,11 +5,22 @@ by: couch potato
 
 
 
+----------------------
+v1.1.1  (2017/05/03)
+----------------------
+
+- fixing the cache system ("NoneType' object is not iterable" pvr issue)
+- fixing the adult contents protector
+- redifining the channel number
+- adding a new filter: LANGUAGE FILTER for PVR 
+
+
+
 ------------------------
-v1.1.0-r3  (2017/05/03)
+v1.1.0-r3  (2017/05/032
 ------------------------
 
-- fixing the cache system (pvr issue)
+- fixing the cache syste (pvr issue)
 
 
 
@@ -38,7 +49,7 @@ v1.1.0  (2017/04/30)
   + rebuilding the whole code based on a new API
   + adding all available MOVIE INFO (metadata) for all types of accounts, incl. the DONATION ONLY one
   + a new option to enable/disable metadata (especially for KODI 17 which takes longer time to load than the KODI 16)
-  + enabling the SORTING feature (by: language (studio), title, year, genre or none/unsorted)
+  + enabling the sorting feature (by: language, title, year, genre or none/unsorted)
   + adding all available MOVIE TRAILERS
   
 - a new option to install couch potato's preset keymaps (shortcut)
