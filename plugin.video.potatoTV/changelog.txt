@@ -6,6 +6,18 @@ by: couch potato
 
 
 ------------------------
+v1.2.0  (2017/05/10)
+------------------------
+
+- adding a new directory for VOD (TV SERIES)
+
+- adding a new EXTRA feature (radio streamings)
+
+- adding a new tool (EPG SHRINK - an EPG optimization tool)
+
+
+
+------------------------
 v1.1.2  (2017/05/07)
 ------------------------
 
