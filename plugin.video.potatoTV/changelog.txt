@@ -6,6 +6,20 @@ by: couch potato
 
 
 ------------------------
+v1.3.1  (2017/05/15)
+------------------------
+
+- fixing the downloader
+
+- fixing VOD: TV SERIES filter (requires CLEAR CACHES: TV + VOD)
+
+- fixing VOD KID: SUPERCARTOONS (cookies issue, no need to open the browser anymore)
+
+- adding new items under VOD KID
+
+
+
+------------------------
 v1.3.0  (2017/05/13)
 ------------------------
 
