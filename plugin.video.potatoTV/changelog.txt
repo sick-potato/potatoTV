@@ -6,16 +6,42 @@ by: couch potato
 
 
 ------------------------
+v1.4.0-r2  (2017/05/22)
+------------------------
+
+- Improved cache system
+
+
+
+------------------------
+v1.4.0  (2017/05/20)
+------------------------
+
+- Added no-streaming-data detector
+- Added more options for all available Stalker portals
+- Added a new feature: "Add To Favourites" for both IPTV & VOD
+
+
+
+------------------------
+v1.3.1-r2  (2017/05/16)
+------------------------
+
+- Fixed the "Donation Only" account user's issue (Clear Cache: FAILED too many values to unpack)
+
+
+
+------------------------
 v1.3.1  (2017/05/15)
 ------------------------
 
-- fixing the downloader
+- Fixed the downloader
 
-- fixing VOD: TV SERIES filter (requires CLEAR CACHES: TV + VOD)
+- Fixed VOD: TV SERIES filter (requires CLEAR CACHES: TV + VOD)
 
-- fixing VOD KID: SUPERCARTOONS (cookies issue, no need to open the browser anymore)
+- Fixed VOD KID: SUPERCARTOONS (cookies issue, no need to open the browser anymore)
 
-- adding new items under VOD KID
+- Added new items under VOD KID
 
 
 
@@ -23,9 +49,9 @@ v1.3.1  (2017/05/15)
 v1.3.0  (2017/05/13)
 ------------------------
 
-- fixing VOD filter: LANGUAGE & GENRE
+- Fixed VOD filter: LANGUAGE & GENRE
 
-- rebuilding VOD directory
+- Rebuild VOD directory
 
 
 
@@ -33,7 +59,7 @@ v1.3.0  (2017/05/13)
 v1.2.0-r3  (2017/05/12)
 ------------------------
 
-- fixing VOD: TV SERIES filter
+- Fixed VOD: TV SERIES filter
 
 
 
@@ -41,7 +67,7 @@ v1.2.0-r3  (2017/05/12)
 v1.2.0-r2  (2017/05/11)
 ------------------------
 
-- fixing Kodi 17 bug
+- Fixed Kodi 17 bug
 
 
 
@@ -49,11 +75,11 @@ v1.2.0-r2  (2017/05/11)
 v1.2.0  (2017/05/10)
 ------------------------
 
-- adding a new directory for VOD (TV SERIES)
+- Added a new directory for VOD (TV SERIES)
 
-- adding a new EXTRA feature (radio streamings)
+- Added a new EXTRA feature (radio streamings)
 
-- adding a new tool (EPG SHRINK - an EPG optimization tool)
+- Added a new tool (EPG SHRINK - an EPG optimization tool)
 
 
 
@@ -61,7 +87,7 @@ v1.2.0  (2017/05/10)
 v1.1.2  (2017/05/07)
 ------------------------
 
-- adding adult contents filter for VOD
+- Added adult contents filter for VOD
 
 
 
@@ -69,7 +95,7 @@ v1.1.2  (2017/05/07)
 v1.1.1-r3  (2017/05/06)
 ------------------------
 
-- fixing "Change Password" error
+- Fixed "Change Password" error
 
 
 
@@ -77,7 +103,7 @@ v1.1.1-r3  (2017/05/06)
 v1.1.1-r2  (2017/05/04)
 ------------------------
 
-- fixing vod issue
+- Fixed vod issue
 
 
 
@@ -85,10 +111,10 @@ v1.1.1-r2  (2017/05/04)
 v1.1.1  (2017/05/03)
 ------------------------
 
-- fixing the cache system ("NoneType' object is not iterable" pvr issue)
-- fixing the adult contents protector
-- redifining the channel number
-- adding a new filter: LANGUAGE FILTER for PVR 
+- Fixed the cache system ("NoneType' object is not iterable" pvr issue)
+- Fixed the adult contents protector
+- Re-Defined the channel number
+- Added a new filter: LANGUAGE FILTER for PVR 
 
 
 
@@ -96,7 +122,7 @@ v1.1.1  (2017/05/03)
 v1.1.0-r3  (2017/05/02)
 ------------------------
 
-- fixing the cache system (pvr issue)
+- Fixed the cache system (pvr issue)
 
 
 
@@ -105,9 +131,9 @@ v1.1.0-r3  (2017/05/02)
 v1.1.0-r2  (2017/05/01)
 ------------------------
 
-- fixing missing paths
-- re-adding the limit for number of movies in VOD
-- defining a shortcut to call potatoTV addon instantly from the EPG page
+- Fixed missing paths
+- Re-Added the limit for number of movies in VOD
+- Defined a shortcut to call potatoTV addon instantly from the EPG page
 
 
 
@@ -116,21 +142,21 @@ v1.1.0-r2  (2017/05/01)
 v1.1.0  (2017/04/30)
 ------------------------
 
-- improving the caches system
+- Improved the caches system
 
-- fixing the language filter
+- Fixed the language filter
 
 - some major changes on VOD:
 
-  + rebuilding the whole code based on a new API
-  + adding all available MOVIE INFO (metadata) for all types of accounts, incl. the DONATION ONLY one
+  + Rebuild the whole code based on a new API
+  + Added all available MOVIE INFO (metadata) for all types of accounts, incl. the DONATION ONLY one
   + a new option to enable/disable metadata (especially for KODI 17 which takes longer time to load than the KODI 16)
-  + enabling the SORTING feature (by: language (studio), title, year, genre or none/unsorted)
-  + adding all available MOVIE TRAILERS
+  + Enabled the SORTING feature (by: language (studio), title, year, genre or none/unsorted)
+  + Added all available MOVIE TRAILERS
   
-- a new option to install couch potato's preset keymaps (shortcut)
+- Added a new option to install couch potato's preset keymaps (shortcut)
 
-- displaying TV GUIDE in COLOR (credits to psycon)
+- Enabled the displaying TV GUIDE in COLOR (credits to psycon)
 
 
 
@@ -150,7 +176,7 @@ Offering:  Extra Features  ( requires LOOOOOOOOTS of magic words! lol :p )
 v1.0.5-r2  (2017/04/26)
 ------------------------
 
-- fixing the iptv logo & vod poster path
+- Fixed the iptv logo & vod poster path
 
 
 
@@ -158,11 +184,11 @@ v1.0.5-r2  (2017/04/26)
 v1.0.5-r1  (2017/04/18)
 ------------------------
 
-- improving the caches system
-- fixing the local time detection
-- improving the password protection
-- forcing the M3U playlist generator to use the dinamic links as its link reference
-- new option:  enabling the F4M Tester 
+- Improved the caches system
+- Fixed the local time detection
+- Improved the password protection
+- Forced the M3U playlist generator to use the dinamic links as its link reference
+- Added a new option:  Enabled the F4M Tester 
 
 
 
@@ -170,7 +196,7 @@ v1.0.5-r1  (2017/04/18)
 v1.0.4-r2  (2017/03/28)
 ------------------------
 
-- fixing a minor issue (cache related)
+- Fixed a minor issue (cache related)
 
 
 
@@ -179,7 +205,7 @@ v1.0.4-r2  (2017/03/28)
 v1.0.4  (2017/03/28)
 ---------------------
 
-- fixing the VOD channels
+- Fixed the VOD channels
 
 
 
@@ -188,12 +214,12 @@ v1.0.4  (2017/03/28)
 v1.0.3  (2017/03/28)
 ---------------------
 
-- removing the default view mode codes
+- Removed the default view mode codes
 
-- improving all the cache system
+- Improved all the cache system
 especially for the vod caches
 
-- improving the parental control for all adult contents
+- Improved the parental control for all adult contents
 
 
 
@@ -202,7 +228,7 @@ especially for the vod caches
 v1.0.2  (2017/03/27)
 ---------------------
 
-- Fixing the TV genre filter
+- Fixed the TV genre filter
 Thanks to dara for noticing the bug
 
 
@@ -212,17 +238,17 @@ Thanks to dara for noticing the bug
 v1.0.1  (2017/03/27)
 ---------------------
 
-- Fixing some issues related with "Donation Based" accounts:
-	+ Add 'ALL' item for the genre options
-	+ Redefine the channel numbering (all foreign channels numbers are started with 5000)
-	+ Fix language filter
+- Fixed some issues related with "Donation Based" accounts:
+	+ Added 'ALL' item for the genre options
+	+ Redefined the channel numbering (all foreign channels numbers are started with 5000)
+	+ Fixed language filter
 
-- Adding adult contents filtering for M3U playlist
+- Added adult contents filtering for M3U playlist
 
-- Creating custom list file for any available portals
+- Created custom list file for any available portals
 The list can be customized by editing the 'Kodi/addons/plugin.video.potatoTV/resources/portals.list'
 
-- Fixing few minor issues
+- Fixed few minor issues
 
 
 
