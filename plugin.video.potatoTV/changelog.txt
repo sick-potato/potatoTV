@@ -6,6 +6,24 @@ by: couch potato
 
 
 ------------------------
+v1.9.9  (2017/06/07)
+------------------------
+
+The HEMORRHOIDS Edition for assholes :p
+
+- fixed the timezone database
+- added EPG Time Shift
+- added a new option for including the VOD with the PVR m3u playlist
+- added season filter for VOD TV Series 
+
+- added a new quest for extra features:
+i.e. Backend Channel Sync, 24/7 Live, IPTV Dumps, Embedded EPG & RECORDING
+
+(Hint: lost, burried & hidden in pile of shit LMFAO)
+
+
+
+------------------------
 v1.4.0-r2  (2017/05/22)
 ------------------------
 
