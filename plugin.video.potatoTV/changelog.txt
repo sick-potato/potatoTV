@@ -6,6 +6,17 @@ by: couch potato
 
 
 ------------------------
+v1.9.9-r2  (2017/06/12)
+------------------------
+
+- improved extra features
+- fixed VOD TV Series filter
+- added a new source for EPG (by: Provider)
+- fixed minor issues
+
+
+
+------------------------
 v1.9.9  (2017/06/07)
 ------------------------
 
