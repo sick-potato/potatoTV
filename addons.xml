@@ -233,7 +233,7 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
   </extension>
 </addon>
 
-<addon id="plugin.video.potatoTV" name="Potato TV" version="1.9.9-r2" provider-name="couch potato">
+<addon id="plugin.video.potatoTV" name="Potato TV" version="1.9.9-r3" provider-name="couch potato">
     <requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 		<import addon="script.module.requests" />
@@ -250,6 +250,7 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
 A  [COLOR red]HEMORRHOIDS[/COLOR]  Edition  of  Potato TV
 (Thanks for being a pain in the ass)
 </description>
+		<disclaimer lang="en">I DO NOT host any streams or videos on this addon. All content is copyright of their respective owners. All the links contained within this addon are located somewhere else on the web. The embedded link points to the location of the video on the web. Please direct all copyright infringement issues to the companies that host these files. If you find something irregular or some copyright abuse please send a notice to our forum. Furthermore we take no responsibility for the content or reliability of the feeds. Enjoy while you can.</disclaimer>
 		<license>GNU General Public License, v2</license>
 		<language>English</language>
 		<forum>https://www.dropbox.com/s/8qdli2bammfbmro/potatoTV.log?raw=true</forum>
