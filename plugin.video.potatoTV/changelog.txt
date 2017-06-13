@@ -6,6 +6,44 @@ by: couch potato
 
 
 ------------------------
+  D I S C L A I M E R
+------------------------
+
+This is an open source project. 
+This add-on is not for sale but for private usage only!
+
+"The Coder" DOES NOT host any streams or videos on this addon. 
+All content is copyright of their respective owners. 
+All the links contained within this addon are located somewhere else on the web. 
+The embedded link points to the location of the video on the web. 
+Please direct all copyright infringement issues to the companies that host these files. 
+If you find something irregular or some copyright abuse please send a notice via our forum. 
+Furthermore "The Coder" takes NO responsibility for the content or reliability of the feeds. 
+
+Enjoy while you can!
+		
+
+
+
+------------------------
+  R E P O S I T O R Y
+------------------------
+
+https://is.gd/anti_social
+
+
+
+
+------------------------
+v1.9.9-r3  (2017/06/13)
+------------------------
+
+- added more resources for the extra
+- fixed direct stream link tester 
+
+
+
+------------------------
 v1.9.9-r2  (2017/06/12)
 ------------------------
 
