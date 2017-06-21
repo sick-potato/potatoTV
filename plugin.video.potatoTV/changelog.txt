@@ -35,6 +35,18 @@ https://is.gd/anti_social
 
 
 ------------------------
+v1.9.9-r4  (2017/06/21)
+------------------------
+
+- fixed vod tv series filter
+- improved the link tester
+- added more shows for the extra
+- added more "toys" for boyz
+- fixed minor bugs
+
+
+
+------------------------
 v1.9.9-r3  (2017/06/13)
 ------------------------
 
