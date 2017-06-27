@@ -35,6 +35,20 @@ https://is.gd/anti_social
 
 
 ------------------------
+v1.9.9-r6  (2017/06/27)
+------------------------
+
+- added a new portal (s2.iptv66.tv)
+- fixed vod tv series filter
+- fixed EPG Time Shift
+- improved the link tester
+- fixed EXODUS API Keys (empty search issue)
+- added a new tool (the EPG Info)
+
+
+
+
+------------------------
 v1.9.9-r5  (2017/06/21)
 ------------------------
 
