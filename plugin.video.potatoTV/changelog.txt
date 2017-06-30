@@ -35,6 +35,16 @@ https://is.gd/anti_social
 
 
 ------------------------
+v1.9.9-r7  (2017/06/30)
+------------------------
+
+- fixed cache system
+- added new tweak settings for cache expiry time
+
+
+
+
+------------------------
 v1.9.9-r6  (2017/06/27)
 ------------------------
 
