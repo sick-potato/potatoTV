@@ -446,7 +446,7 @@ A  [COLOR red]HEMORRHOIDS[/COLOR]  Edition  of  Potato TV
 
 <addon
   id="plugin.video.videodevil"
-  version="1.7.163-fixed"
+  version="1.7.163-fixed-r2"
   name="VideoDevil"
   provider-name="xbmc-adult">
   <requires>
