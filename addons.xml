@@ -251,7 +251,7 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
   </extension>
 </addon>
 
-<addon id="plugin.video.potatoTV" name="Potato TV" version="1.9.9-r6" provider-name="couch potato">
+<addon id="plugin.video.potatoTV" name="Potato TV" version="1.9.9-r7" provider-name="couch potato">
     <requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 		<import addon="script.module.requests" />
