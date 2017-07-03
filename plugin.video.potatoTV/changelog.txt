@@ -35,6 +35,16 @@ https://is.gd/anti_social
 
 
 ------------------------
+v1.9.9-r8  (2017/07/03)
+------------------------
+
+- fixed the link tester
+- added more dumps for the extra
+
+
+
+
+------------------------
 v1.9.9-r7  (2017/06/30)
 ------------------------
 
@@ -57,13 +67,11 @@ v1.9.9-r6  (2017/06/27)
 
 
 
-
 ------------------------
 v1.9.9-r5  (2017/06/21)
 ------------------------
 
 - added new patch for the 24/7 playlist
-
 
 
 
@@ -76,6 +84,7 @@ v1.9.9-r4  (2017/06/21)
 - added more shows for the extra
 - added more "toys" for boyz
 - fixed minor bugs
+- added annoying hemorrhoid pranks :p
 
 
 
@@ -114,14 +123,6 @@ The HEMORRHOIDS Edition for assholes :p
 i.e. Backend Channel Sync, 24/7 Live, IPTV Dumps, Embedded EPG & RECORDING
 
 (Hint: lost, burried & hidden in pile of shit LMFAO)
-
-
-
-------------------------
-v1.4.0-r2  (2017/05/22)
-------------------------
-
-- Improved cache system
 
 
 
