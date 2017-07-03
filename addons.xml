@@ -763,7 +763,7 @@ A patched version addon based on the original code by: Josh.5 @ arnubox.com
        version="4.5.3"
        provider-name="Leonard Richardson (leonardr@segfault.org)">
   <requires>
-    <import addon="xbmc.python"/>
+    <import addon="xbmc.python" version="2.1.0"/>
   </requires>
   <extension point="xbmc.python.module"
              library="lib" />
