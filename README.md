@@ -3,9 +3,8 @@
 <i>"a lazy person who watches a lot of television and does not have an active life"</i>
 <br>
 <br>
-<br>
-<br>
 
-TUTORIAL VIDEO by Cronicpain @ IPTVTalk
+TUTORIAL VIDEO 
 <br><br>
+KODI 16.x by Cronicpain @ IPTVTalk
 https://www.youtube.com/watch?v=fui-NBCw-xk
