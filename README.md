@@ -5,14 +5,14 @@
 
 TUTORIAL VIDEO 
 <br><br>
-KODI 16.x by Cronicpain @ IPTVTalk
+KODI 16.x ( Cronicpain @ IPTVTalk )
 
 https://www.youtube.com/watch?v=fui-NBCw-xk
 
 https://www.youtube.com/watch?v=rweD0AJ23C4
 
 <br><br>
-KODI 17.x by AGENT86 @ Get Smart Media Worldwide
+KODI 17.x ( AGENT86 @ Get Smart Media Worldwide )
 
 https://www.youtube.com/watch?v=3k3zF31PPHI
 
