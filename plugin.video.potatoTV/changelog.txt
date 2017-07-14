@@ -9,16 +9,22 @@ by: couch potato
   D I S C L A I M E R
 ------------------------
 
-This is an open source project. 
-This add-on is not for sale but for private usage only!
+This is a FREE OPEN SOURCE PROJECT. 
+This add-on is NOT FOR SALE but for PRIVATE USAGE ONLY!
 
-"The Coder" DOES NOT host any streams or videos on this addon. 
+"The Coder" DOES NOT host any streams or videos on this addon.
+ 
 All content is copyright of their respective owners. 
-All the links contained within this addon are located somewhere else on the web. 
+All the links contained within this addon are easily found and located somewhere else on the web. 
 The embedded link points to the location of the video on the web. 
-Please direct all copyright infringement issues to the companies that host these files. 
+
+"The Coder" is NOT AFFILIATED WITH any service provider who deliver the feeds.
+
+Furthermore "The Coder" takes NO RESPONSIBILITY for the content or reliability of the feeds. 
+
+Please direct all copyright infringement issues to the companies that host and stream those files. 
 If you find something irregular or some copyright abuse please send a notice via our forum. 
-Furthermore "The Coder" takes NO responsibility for the content or reliability of the feeds. 
+
 
 Enjoy while you can!
 		
@@ -30,6 +36,21 @@ Enjoy while you can!
 ------------------------
 
 https://is.gd/anti_social
+
+
+
+
+------------------------
+v1.9.9-r9  (2017/07/14)
+------------------------
+
+- a new EPG source (credits to rgturk100)
+- fixed F4M Proxy settings
+- added more sources for VOD's KIDS
+- fixed boys' toys
+- added more dumps for the extra
+- fixed Favourites
+- fixed minor bugs
 
 
 
@@ -67,11 +88,13 @@ v1.9.9-r6  (2017/06/27)
 
 
 
+
 ------------------------
 v1.9.9-r5  (2017/06/21)
 ------------------------
 
 - added new patch for the 24/7 playlist
+
 
 
 
@@ -84,7 +107,6 @@ v1.9.9-r4  (2017/06/21)
 - added more shows for the extra
 - added more "toys" for boyz
 - fixed minor bugs
-- added annoying hemorrhoid pranks :p
 
 
 
@@ -123,6 +145,14 @@ The HEMORRHOIDS Edition for assholes :p
 i.e. Backend Channel Sync, 24/7 Live, IPTV Dumps, Embedded EPG & RECORDING
 
 (Hint: lost, burried & hidden in pile of shit LMFAO)
+
+
+
+------------------------
+v1.4.0-r2  (2017/05/22)
+------------------------
+
+- Improved cache system
 
 
 
